@@ -1,4 +1,4 @@
-# wmprobe — keyless LLM watermark detection experiments
+# wmprobe: keyless LLM watermark detection experiments
 
 Research code. **Development has stopped**; this README records what was tried and what was found.
 
